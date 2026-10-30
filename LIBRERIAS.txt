@@ -1,0 +1,16 @@
+
+Librerías externas que tu proyecto necesita
+
+Si no tiene estas librerías instaladas en tu IDE, el código le arrojará un error de compilación.
+
+	LIBRERÍA 		VERSIÓN		CREADOR
+
+1. Adafruit_GFX_Library 	1.12.5		(De Adafruit, para la gestión de pantallas y gráficos)
+2. ESP32Encoder 		0.12.0		(Para el control de encoders rotativos por hardware usando el chip PCNT del ESP32)
+3. Etherkit_Si5351 		2.2.0		(Librería de Jason Mildrum para controlar el generador de reloj IC Si5351)
+
+LAS CONFIGURACIONES DE ARDUINO PARA UNA CORRECTA COMPILACIÓN SE ENCUENTRAN EN sketch.json
+
+PARA AGREGAR SU SEÑAL DISTINTIVA SE DEBE RREMPLAZAR EN ESTA LÍNEA DEL CÓDIGO POR LA PROPIA:
+
+tft1.print("LW3DLP");

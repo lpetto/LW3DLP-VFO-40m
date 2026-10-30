@@ -1,0 +1,6 @@
+{
+  "cpu": "esp32s3",
+  "board": "esp32:esp32:esp32s3",
+  "configuration": "CDCOnBoot=cdc,FlashSize=8M,PartitionScheme=no_ota,PSRAM=disabled,FlashMode=dio",
+  "program": "Panel_AM_FINAL_AJUSTADO.ino"
+}
