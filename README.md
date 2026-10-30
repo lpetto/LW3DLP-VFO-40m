@@ -218,4 +218,4 @@ Sobre el espíritu del proyecto: El objetivo de compartir esto libremente es que
 Contacto del Autor: lpetto@gmail.com
 ¡Que disfrutes de armar y usar este panel, y buenos contactos en la banda de 40 metros! 73.
 
-
+Panel de Control Digital para 40 Metros (AM/BLU) © 2026 por Luis Ángel Petitto (LW3DLP) está licenciado bajo CC BY-NC-SA 4.0. Para ver una copia de esta licencia, visite https://creativecommons.org/licenses/by-nc-sa/4.0/
